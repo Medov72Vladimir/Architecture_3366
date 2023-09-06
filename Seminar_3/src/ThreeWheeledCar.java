@@ -1,8 +1,10 @@
+// Создать конкретный автомобиль путём наследования класса «Car», определить число колёс = 3.
+
 public class ThreeWheeledCar extends Car{
     private String model;
     private String number;
 
-    // Создаем конструктор класса "Auto"
+    // Создаем конструктор класса "ThreeWheeledCar"
     public ThreeWheeledCar(String brand, String model, String color, String bodyType, String number, String fuelType, String transmissionType, double engineVolume) {
         super(brand, model, color, bodyType, number, 3, fuelType, transmissionType, engineVolume);
         this.model = model;
