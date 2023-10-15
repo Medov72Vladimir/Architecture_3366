@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="invitation">Добро пожаловать в Messenger!</string>
+    <string name="login_button">Вход</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="question">Вы не зарегистрированы?</string>
+    <string name="entrance">Вход</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="authorization">Авторизация</string>
+</resources>
